@@ -20,17 +20,37 @@ salvos no projeto do Firebase que foi criado para o aplicativo, caso já tenha u
 
 ## Telas do Projeto
 
-### Login
-![Login](/Login.jpg)
+<div align="center">
+  <h1>Login</h1>
+</div>
+<p align="center">
+  <img src="/Login.jpg" alt="Login" width="400"/>
+</p>
 
-### Cadastro
-![Cadastro](/Cadastro.jpg)
+<div align="center">
+  <h1>Cadastroa</h1>
+</div>
+<p align="center">
+  <img src="/Cadastro.jpg" alt="Cadastro" width="400"/>
+</p>
 
-### Formulário
-![Formulário](/Formulario.jpg)
+<div align="center">
+  <h1>Formulário</h1>
+</div>
+<p align="center">
+  <img src="/Formulario.jpg" alt="Formulário" width="400"/>
+</p>
 
-### Menu
-![Menu](/Menu.jpg)
+<div align="center">
+  <h1>Menu</h1>
+</div>
+<p align="center">
+  <img src="/Menu.jpg" alt="Menu" width="400"/>
+</p>
 
-### Dieta
-![Dieta](/Dieta.jpg)
+<div align="center">
+  <h1>Dieta</h1>
+</div>
+<p align="center">
+  <img src="/Dieta.jpg" alt="Dieta" width="400"/>
+</p>

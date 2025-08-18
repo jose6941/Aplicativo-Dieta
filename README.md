@@ -18,9 +18,13 @@ recomendações na área de nutrição.
 - **Banco de dados:** Qualquer usuário poderá criar uma conta no app apenas utilizando e-mail e senha, utilizando o banco de dados Firebase.Após a criação da conta, os dados serão
 salvos no projeto do Firebase que foi criado para o aplicativo, caso já tenha uma conta, é possível fazer a autenticação diretamente de qualquer lugar.
 
+</br>
+
 <div align="center">
   <h1>Telas do aplicativo</h1>
 </div>
+
+</br>
 
 <div align="center">
   <h1>Login</h1>

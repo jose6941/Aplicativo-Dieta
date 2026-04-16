@@ -1,0 +1,20 @@
+import React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { createStackNavigator } from "@react-navigation/stack";
+import Login from "./components/login";
+import Cadastro from "./components/cadastro";
+import TabNavigator from "./components/tabNavigator";
+
+const Stack = createStackNavigator();
+
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator screenOptions={{ headerShown: false }}>
+        <Stack.Screen name="Login" component={Login} />
+        <Stack.Screen name="Cadastro" component={Cadastro} />
+        <Stack.Screen name="Home" component={TabNavigator} /> 
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}

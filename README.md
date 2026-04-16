@@ -89,19 +89,3 @@ npm start
 ### Importante: Ajuste de IP da API
 No arquivo `front/components/form.js` (aprox. linha 27), você encontrará a URL de requisição local para a sua API Backend (ex: `http://192.168.94.237:3333/create`). 
 **Se você estiver emulando no seu smartphone físico**, altere o endereço de IP para o **IPv4 atual do seu computador** onde o backend está rodando. Se estiver utilizando o Emulador nativo do Android Studio, configure a chamada para: `http://10.0.2.2:3333/create`.
-
----
-
-## Telas do Aplicativo
-
-<p align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://via.placeholder.com/200x400.png?text=Login" alt="Login" width="200"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Cadastro" alt="Cadastro" width="200"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Formul%C3%A1rio" alt="Formulário" width="200"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Menu" alt="Menu" width="200"/>
-  <img src="https://via.placeholder.com/200x400.png?text=Dieta" alt="Dieta" width="200"/>
-</p>
-
-*(Substitua as imagens demonstrativas acima pelas screenshots reais do aplicativo ao adicionar no GitHub. Lembre-se de colocar as mesmas na pasta principal ou documentar o seu caminho corretamente)*
-
----
